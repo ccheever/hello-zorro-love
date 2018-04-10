@@ -1,0 +1,17 @@
+{
+  "name": "hello-zorro-love",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccheever/hello-zorro-love.git",
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-expo": "^4.0.0",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "build": "yarn",
+    "start": "babel-node ."
+  }
+}
